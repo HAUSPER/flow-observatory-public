@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or observe its data facade, please cite it as below."
+
+type: software
+title: "DTCN-0.1 Public Observatory Facade"
+
+authors:
+  - family-names: "Chernov"
+    given-names: "Boris"
+    affiliation: "Flow Systems Lab"
+
+url: "https://hausper.github.io/flow-observatory-public/"
+
+preferred-citation:
+  type: generic
+  title: "DTCN-0.1: Architecture and Internal Calibration of a Multi-Aperture Observation System"
+  authors:
+    - family-names: "Chernov"
+      given-names: "Boris"
+  year: 2026
+  month: 9
+  day: 20
+  doi: "10.6084/m9.figshare.33945715"
+  url: "https://doi.org/10.6084/m9.figshare.33945715"
